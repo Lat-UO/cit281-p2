@@ -1,4 +1,4 @@
-#CIT281-p2
+# cit281-p2
 
 Learning Objectives
 
